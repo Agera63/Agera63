@@ -1,4 +1,4 @@
-# 👋 Hey! I'm Agera / Eric
+# 👋 Hey! I'm Eric
 
 **Love building websites, games and applications**
 
